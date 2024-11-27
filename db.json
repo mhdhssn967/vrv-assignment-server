@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Sharon",
+      "role": "Developer",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "Muhammed Favs E T",
+      "role": "Data Analyst",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "name": "Anugrah",
+      "role": "Developer",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "name": "Praveen",
+      "role": "System Administrator",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "name": "Prameesh",
+      "role": "System Administrator",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "name": "Jacky",
+      "role": "Data Analyst",
+      "status": "Inactive",
+      "id": 7
+    }
+  ]
+}
